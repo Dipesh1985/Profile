@@ -4,9 +4,9 @@ with col1:
     st.image("Profile_img.png", width=400)
 
 with col2:
-    st.title("Sven Bosau", anchor=False)
+    st.title("Dipesh Mani Tiwari", anchor=False)
     st.write(
-        "Senior Data Analyst, assisting enterprises by supporting data-driven decision-making."
+        "Free Python Coder"
     )
 
 
