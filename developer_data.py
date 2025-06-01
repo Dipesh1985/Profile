@@ -8,7 +8,7 @@ with col2:
     st.write(
         "Free Python Coder"
     )
-
+st.markdown("<br><br>",unsafe_allow_html=True)
 st.write("**Nationality:**  Indian")
 st.write("**Experinced:** Python ,Html")
 st.write("**Email:** @tiwaridipesh739@gmail.com")
