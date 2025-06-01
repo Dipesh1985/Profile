@@ -1,5 +1,5 @@
 import streamlit as st
-col1, col2 = st.columns(2, gap="small", vertical_alignment="center")
+col1, col2 = st.columns([0.7,0.5], gap="small", vertical_alignment="center")
 with col1:
     st.image("Profile_img.png", width=400)
 
